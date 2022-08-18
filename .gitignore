@@ -31,4 +31,3 @@ htmlcov/
 .github/**
 
 #extras
-.env_file
